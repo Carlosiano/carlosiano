@@ -13,7 +13,7 @@ export default function Footer() {
           {emoji("Made with ❤️ by Carlosiano")}
         </p>
         <p className={isDark ? "dark-mode footer-text" : "footer-text"}>
-          &copy; Copyright 2023 <a href="carlosiano.vercel.app">Carlosiano</a>
+          &copy; Copyright 2023 <a href="/">Carlosiano</a>
         </p>
       </div>
     </Fade>
